@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Righteous', cursive; }
+
+h1 {
+  font-family: 'Chakra Petch', sans-serif;
+  letter-spacing: 3px; }
+
+/* colores */
+/* animaciones */
+@keyframes titulo {
+  0% {
+    transform: translateY(-120px); } }
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  background-color: #232931;
+  color: #EEEE;
+  font-size: 2vh; }
+
+.tituloindex {
+  animation-name: titulo;
+  animation-duration: 1s; }
+
+main {
+  height: 80vh;
+  display: flex;
+  background-color: #393E46; }
+
+footer {
+  height: 10vh;
+  background-color: #4ECCA3;
+  color: aliceblue;
+  display: flex; }

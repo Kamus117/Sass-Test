@@ -1,0 +1,14 @@
+/* colores */
+
+$negro: #232931;
+$gris: #393E46;
+$celeste: #4ECCA3;
+$blancos: #EEEEEE;
+
+/* animaciones */
+
+@keyframes titulo{
+    0%{
+        transform: translateY(-120px);
+    }
+}
