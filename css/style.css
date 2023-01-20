@@ -35,5 +35,10 @@ main {
 footer {
   height: 10vh;
   background-color: #4ECCA3;
-  color: aliceblue;
-  display: flex; }
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.4rem; }
+  footer a {
+    margin: 9vw; }

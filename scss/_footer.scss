@@ -1,6 +1,13 @@
 footer{
     height: 10vh;
     background-color: $celeste;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4rem;
+
+    a{
+        margin: 9vw;
+    }
 }
